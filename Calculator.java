@@ -43,7 +43,7 @@ public class Calculator {
             Calculator.divide(x, y);
         }
     
-
+        scn.close();
 
     }
 
